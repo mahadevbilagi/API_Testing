@@ -22,7 +22,7 @@
 									"",
 									"",
 									"pm.test(\"Status code is 200\", function () {",
-									"    pm.response.to.have.status(200);",
+									"    pm.response.to.have.status(2001);",
 									"});"
 								],
 								"type": "text/javascript"
@@ -214,7 +214,7 @@
 	],
 	"variable": [
 		{
-			"id": "009689fd-b6b9-4f0a-89ac-c14fb16bd779",
+			"id": "5276cd76-dc25-497e-83bb-127973ff6f75",
 			"key": "url",
 			"value": "https://reqres.in",
 			"type": "string"
