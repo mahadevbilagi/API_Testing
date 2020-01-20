@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "8ab606eb-c160-4257-9511-97dec8e1659b",
-		"name": "Reqres.in - API Testing",
+		"name": "Reqres-APITesting",
 		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
 	},
 	"item": [
@@ -214,7 +214,7 @@
 	],
 	"variable": [
 		{
-			"id": "094e5b1d-e27f-438e-b9e0-760531ac0f2a",
+			"id": "009689fd-b6b9-4f0a-89ac-c14fb16bd779",
 			"key": "url",
 			"value": "https://reqres.in",
 			"type": "string"
